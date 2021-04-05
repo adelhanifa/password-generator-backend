@@ -35,6 +35,10 @@ const generatePassword = ({
     generateFrome += allNumbers;
   }
 
+  if (numbers + specialCharacters === 99) {
+    generateFrome = allSpecialChars + allNumbers
+  }
+
   let numCount = 0,
       specialCount = 0;
 
@@ -66,6 +70,11 @@ const generatePassword = ({
       password = password.replace(/[a-zA-Z]/g, "");
     }
   }
+
+  console.log("🚀 ~ file: password_generator.js ~ line 84 ~ password", password)
+  
+  // make it more complicated
+  password = password.split('').sort(function(){return 0.5-Math.random()}).join('');
 
   return password;
 };

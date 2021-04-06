@@ -1,7 +1,7 @@
 # Cognigy Challenge Code: A passwords generator API app.
 
 ### This project was developed by: 
- [Adel Hanifa](https://adelhanifa.github.io/portfolio/).
+ [Adel Hanifa](https://adelhanifa.github.io/portfolio/)
 
 ### Main Idea :
   - Create an API that generates secure passwords. As input parameters the user has to provide the minimum length, the number of special characters, the number of numbers and the number of passwords that shall be created. Then generate the passwords and return them in an array.
@@ -29,6 +29,6 @@
  - Netlify for Front end
 
 ### Links
- - [live project](https://adelhanifa.netlify.app/).
- - [Frontend repository](https://github.com/adelhanifa/password-generator-frontend).
- - [Backend repository](https://github.com/adelhanifa/password-generator-backend).
+ - [live project](https://adelhanifa.netlify.app/)
+ - [Frontend repository](https://github.com/adelhanifa/password-generator-frontend)
+ - [Backend repository](https://github.com/adelhanifa/password-generator-backend)

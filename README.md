@@ -9,8 +9,8 @@
 ### To run the project please follow:
   - clone the code
   - open the root folder in VC
-  - go to server folder write in the teminal `npm install` than `npm start`
-  - go to client folder write in the teminal `npm install` than `npm start`
+  - go to server folder write in the teminal `npm install` then `npm start`
+  - go to client folder write in the teminal `npm install` then `npm start`
   - enjoy!
 
 ### Front end libraries and frameworks:

@@ -19,7 +19,7 @@
   - HTML5
   - SCSS
 
-### Backeend libraries and framewarks:
+### Backend libraries and framewarks:
  - Node.js 
  - Express.js
  

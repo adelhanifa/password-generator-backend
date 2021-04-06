@@ -26,3 +26,8 @@
 ### Deployment 
  - Heroku for Back end .
  - Netlify for Front end
+
+### Links
+ - [live project](https://adelhanifa.netlify.app/).
+ - [Frontend repository](https://github.com/adelhanifa/password-generator-frontend).
+ - [Backend repository](https://github.com/adelhanifa/password-generator-backend).

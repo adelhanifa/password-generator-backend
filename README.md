@@ -24,7 +24,7 @@
  - Express.js
  
 ### Deployment 
- - Heroku for Back end .
+ - Heroku for Back end
  - Netlify for Front end
 
 ### Links
